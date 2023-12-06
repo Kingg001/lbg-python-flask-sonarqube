@@ -27,7 +27,7 @@ You will need a Database for this app to work and a connection string to that da
 
 This will need to be exported as an environment variables.
 
-```bash - this should trigger a recomplie
+```bash
 export MYSQL_USER=your-username
 export MYSQL_PASS=your-password
 export MYSQL_URL=your-host
