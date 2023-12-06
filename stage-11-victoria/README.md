@@ -8,8 +8,7 @@ To set up this app you will need to create a virtual environment with Python. Wh
 sudo apt install python3 python3-venv python3-pip
 ```
 
-Then to create the venv and activate it.  and soe more text
-
+Then to create the venv and activate it.
 
 ```bash
 python3 -m venv venv
